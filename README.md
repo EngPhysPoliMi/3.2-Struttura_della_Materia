@@ -1,6 +1,6 @@
-# x.y - Template
+# 3.2 - Struttura della Materia
 
-Repository for "Template".
+Repository for "Struttura della Materia".
 
 
 ## Use instructions
